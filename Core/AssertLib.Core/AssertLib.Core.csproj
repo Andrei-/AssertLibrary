@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>AssertLib.Core</AssemblyName>
+    <RootNamespace>AssertLibrary</RootNamespace>
+    <Authors>Andrei Vleju</Authors>
+    <Company />
+    <Description>Little parameter check helper library
+This is a fork of https://github.com/tallesl/net-Assert with more methods and built for .NET Core 2.0</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/Andrei-/AssertLibrary</PackageProjectUrl>
+    <PackageTags>assert guard parameter check</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Initial version</PackageReleaseNotes>
+    <PackageId>AssertLib.Core</PackageId>
+  </PropertyGroup>
+
+</Project>

@@ -80,9 +80,9 @@
     <Compile Include="UseException.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Assert\AssertLibrary.csproj">
+    <ProjectReference Include="..\AssertLib\AssertLib.csproj">
       <Project>{08fabb31-8d13-49ec-8b59-513a19b76fcb}</Project>
-      <Name>AssertLibrary</Name>
+      <Name>AssertLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

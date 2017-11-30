@@ -8,7 +8,7 @@
     /// </summary>
     public static partial class Assert
     {
-        private static Action<bool, string> Check;
+        internal static Action<bool, string> Check;
 
         static Assert()
         {

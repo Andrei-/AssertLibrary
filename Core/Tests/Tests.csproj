@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Assert.Core\AssertLibrary.csproj" />
+    <ProjectReference Include="..\AssertLib.Core\AssertLib.Core.csproj" />
   </ItemGroup>
 
 </Project>
